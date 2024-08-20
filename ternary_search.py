@@ -1,7 +1,6 @@
 # Python3 program to illustrate
 # recursive approach to ternary search
 import math as mt
-
 # Function to perform Ternary Search
 def ternarySearch(l, r, key, ar):
 
